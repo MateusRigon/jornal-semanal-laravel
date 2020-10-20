@@ -1,0 +1,31 @@
+.container h1{
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+  font-family: 'Roboto Slab', serif;
+}
+header #titulo h1{
+  font-size: 60px;
+  font-family: 'Roboto Slab', serif;
+}
+header .semana h3{
+  color: red;
+  font-family: 'Roboto Slab', serif;
+}
+.container #noticia #topico{
+	color: red;
+	font-family: 'Roboto Slab', serif;
+}
+.container .nav-links .btn-navbar{
+	color: red;
+	font-size: 16px;
+	font-weight: 500;
+}
+.container{
+	margin-bottom: 35vh;
+}
+#footer{
+	height: 25vh;
+	margin-bottom: 0;
+	background-color: #f1f1f1;
+	border-top: 1px solid gray;
+}
